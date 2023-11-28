@@ -1,3 +1,6 @@
 [submodule "airbnb"]
 	path = airbnb
 	url = https://github.com/xuanan92/airbnb.git
+[submodule "nutmilk"]
+	path = nutmilk
+	url = https://github.com/xuanan92/nutmilk
