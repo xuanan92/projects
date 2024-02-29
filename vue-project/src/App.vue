@@ -6,28 +6,19 @@ import { RouterLink, RouterView } from 'vue-router'
     <div class="header">
       <img src="https://docs.mod.io/images/logo.svg" alt="logo" width="80px" height="80px" />
     </div>
-    <div>
-      <RouterLink to="/" />
-    </div>
+    <RouterLink to="/" />
     <RouterView />
   </div>
 </template>
 
 <style scoped>
 .app {
-  display: flex;
+  background-color: black;
   flex-direction: column;
-  width: 100vw;
+  width: 80vw;
   max-height: 100vh;
-}
-form {
   padding: 20px;
-  color: white;
-}
-label {
-  color: white;
-  display: flex;
-  flex-direction: column;
+  margin: 0 auto;
 }
 button {
   background-color: #048383;

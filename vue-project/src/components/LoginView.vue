@@ -13,6 +13,8 @@
 <style scoped>
 form {
   background-color: #333048;
+  max-width: 400px;
+  margin: 0 auto;
 }
 label {
   color: white;

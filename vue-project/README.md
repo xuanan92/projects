@@ -1,35 +1,52 @@
-# vue-project
+# Retrieve, display and test.
 
-This template should help get you started developing with Vue 3 in Vite.
+Create an Vitejs app that \
+Show a login form allowing users to sign into modio with their email. \
+After user is logged in, display games as a list of cards using their bearer token.
 
-## Recommended IDE Setup
+Use the following images (login-step-1.png, login-step-2.png and game-browse.png) as design guide.
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+Style specification: 
+Font sizes:
+H1 - 52px
+H2 - 40px
+Body - 14px 
+Card stats - 10px
 
-## Customize configuration
+Colours: 
+Dark: #212945
+Dark1: #2D375D
+Primary: #07C1D8
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+Container width 
+1280px
 
-## Project Setup
+##### Game card to display:
+- Name.
+- Date added in human readable format.
+- Thumb image.
+- Subscriber total.
+- Download total.
 
-```sh
-npm install
-```
+Write tests to confirm code works.\
+Components must use Vue composition API.\
+Retrieval of games must use logged in user's oauth token.\
+Tailwind CSS must be used for CSS framework.
 
-### Compile and Hot-Reload for Development
+Extra points (but not required):
+Tooltip hover on card stat items i.e. downloads.\
+Input and/or Screen Loading States.\
+Card hover and focus accessibility.\
+A responsive state.\
+Transitions where appropriate i.e. hovers.\
+Typescript.
 
-```sh
-npm run dev
-```
 
-### Compile and Minify for Production
+**Timeframe:** 60 hours
+#### Resources
+modio API documentation: https://docs.mod.io/ \
+Vitejs: https://vitejs.dev/ \
+Tailwind: https://tailwindcss.com/ \
+API key can be generated after registering @ [mod.io](https://mod.io/)
 
-```sh
-npm run build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```
+The purpose of this code challenge is to demonstrate that the developer is able to retrieve data from an external source, format and display retrieved data and write tests to confirm their code works as intended.
