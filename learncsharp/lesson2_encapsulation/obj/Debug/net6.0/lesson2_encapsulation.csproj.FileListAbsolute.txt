@@ -1,0 +1,15 @@
+/home/xuanan92/projects/learncsharp/lesson2_encapsulation/bin/Debug/net6.0/lesson2_encapsulation
+/home/xuanan92/projects/learncsharp/lesson2_encapsulation/bin/Debug/net6.0/lesson2_encapsulation.deps.json
+/home/xuanan92/projects/learncsharp/lesson2_encapsulation/bin/Debug/net6.0/lesson2_encapsulation.runtimeconfig.json
+/home/xuanan92/projects/learncsharp/lesson2_encapsulation/bin/Debug/net6.0/lesson2_encapsulation.dll
+/home/xuanan92/projects/learncsharp/lesson2_encapsulation/bin/Debug/net6.0/lesson2_encapsulation.pdb
+/home/xuanan92/projects/learncsharp/lesson2_encapsulation/obj/Debug/net6.0/lesson2_encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+/home/xuanan92/projects/learncsharp/lesson2_encapsulation/obj/Debug/net6.0/lesson2_encapsulation.AssemblyInfoInputs.cache
+/home/xuanan92/projects/learncsharp/lesson2_encapsulation/obj/Debug/net6.0/lesson2_encapsulation.AssemblyInfo.cs
+/home/xuanan92/projects/learncsharp/lesson2_encapsulation/obj/Debug/net6.0/lesson2_encapsulation.csproj.CoreCompileInputs.cache
+/home/xuanan92/projects/learncsharp/lesson2_encapsulation/obj/Debug/net6.0/lesson2_encapsulation.sourcelink.json
+/home/xuanan92/projects/learncsharp/lesson2_encapsulation/obj/Debug/net6.0/lesson2_encapsulation.dll
+/home/xuanan92/projects/learncsharp/lesson2_encapsulation/obj/Debug/net6.0/refint/lesson2_encapsulation.dll
+/home/xuanan92/projects/learncsharp/lesson2_encapsulation/obj/Debug/net6.0/lesson2_encapsulation.pdb
+/home/xuanan92/projects/learncsharp/lesson2_encapsulation/obj/Debug/net6.0/lesson2_encapsulation.genruntimeconfig.cache
+/home/xuanan92/projects/learncsharp/lesson2_encapsulation/obj/Debug/net6.0/ref/lesson2_encapsulation.dll

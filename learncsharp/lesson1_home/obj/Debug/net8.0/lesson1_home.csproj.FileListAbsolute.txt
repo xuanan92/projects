@@ -1,0 +1,15 @@
+/home/xuanan92/projects/learncsharp/lesson1_home/bin/Debug/net8.0/lesson1_home
+/home/xuanan92/projects/learncsharp/lesson1_home/bin/Debug/net8.0/lesson1_home.deps.json
+/home/xuanan92/projects/learncsharp/lesson1_home/bin/Debug/net8.0/lesson1_home.runtimeconfig.json
+/home/xuanan92/projects/learncsharp/lesson1_home/bin/Debug/net8.0/lesson1_home.dll
+/home/xuanan92/projects/learncsharp/lesson1_home/bin/Debug/net8.0/lesson1_home.pdb
+/home/xuanan92/projects/learncsharp/lesson1_home/obj/Debug/net8.0/lesson1_home.GeneratedMSBuildEditorConfig.editorconfig
+/home/xuanan92/projects/learncsharp/lesson1_home/obj/Debug/net8.0/lesson1_home.AssemblyInfoInputs.cache
+/home/xuanan92/projects/learncsharp/lesson1_home/obj/Debug/net8.0/lesson1_home.AssemblyInfo.cs
+/home/xuanan92/projects/learncsharp/lesson1_home/obj/Debug/net8.0/lesson1_home.csproj.CoreCompileInputs.cache
+/home/xuanan92/projects/learncsharp/lesson1_home/obj/Debug/net8.0/lesson1_home.sourcelink.json
+/home/xuanan92/projects/learncsharp/lesson1_home/obj/Debug/net8.0/lesson1_home.dll
+/home/xuanan92/projects/learncsharp/lesson1_home/obj/Debug/net8.0/refint/lesson1_home.dll
+/home/xuanan92/projects/learncsharp/lesson1_home/obj/Debug/net8.0/lesson1_home.pdb
+/home/xuanan92/projects/learncsharp/lesson1_home/obj/Debug/net8.0/lesson1_home.genruntimeconfig.cache
+/home/xuanan92/projects/learncsharp/lesson1_home/obj/Debug/net8.0/ref/lesson1_home.dll

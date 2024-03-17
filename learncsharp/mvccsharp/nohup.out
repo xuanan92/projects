@@ -1,0 +1,54 @@
+dotnet watch 🔥 Hot reload enabled. For a list of supported edits, see https://aka.ms/dotnet/hot-reload.
+  💡 Press "Ctrl + R" to restart.
+dotnet watch 🔧 Building...
+  Determining projects to restore...
+  All projects are up-to-date for restore.
+  mvccsharp -> /home/xuanan92/projects/learncsharp/mvccsharp/bin/Debug/net8.0/mvccsharp.dll
+dotnet watch 🚀 Started
+info: Microsoft.Hosting.Lifetime[14]
+      Now listening on: http://localhost:5027
+info: Microsoft.Hosting.Lifetime[0]
+      Application started. Press Ctrl+C to shut down.
+info: Microsoft.Hosting.Lifetime[0]
+      Hosting environment: Development
+info: Microsoft.Hosting.Lifetime[0]
+      Content root path: /home/xuanan92/projects/learncsharp/mvccsharp
+warn: Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware[3]
+      Failed to determine the https port for redirect.
+dotnet watch 🛑 Shutdown requested. Press Ctrl+C again to force exit.
+info: Microsoft.Hosting.Lifetime[0]
+      Application is shutting down...
+
+dotnet watch 🔥 Hot reload enabled. For a list of supported edits, see https://aka.ms/dotnet/hot-reload.
+  💡 Press "Ctrl + R" to restart.
+dotnet watch 🔧 Building...
+  Determining projects to restore...
+  All projects are up-to-date for restore.
+  mvccsharp -> /home/xuanan92/projects/learncsharp/mvccsharp/bin/Debug/net8.0/mvccsharp.dll
+dotnet watch 🚀 Started
+info: Microsoft.Hosting.Lifetime[14]
+      Now listening on: http://localhost:5027
+info: Microsoft.Hosting.Lifetime[0]
+      Application started. Press Ctrl+C to shut down.
+info: Microsoft.Hosting.Lifetime[0]
+      Hosting environment: Development
+info: Microsoft.Hosting.Lifetime[0]
+      Content root path: /home/xuanan92/projects/learncsharp/mvccsharp
+warn: Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware[3]
+      Failed to determine the https port for redirect.
+info: Microsoft.EntityFrameworkCore.Database.Command[20101]
+      Executed DbCommand (16ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+      SELECT [c].[Id], [c].[CreatedDateTime], [c].[DisplayOrder], [c].[Name]
+      FROM [Categories] AS [c]
+info: Microsoft.EntityFrameworkCore.Database.Command[20101]
+      Executed DbCommand (2ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+      SELECT [c].[Id], [c].[CreatedDateTime], [c].[DisplayOrder], [c].[Name]
+      FROM [Categories] AS [c]
+info: Microsoft.EntityFrameworkCore.Database.Command[20101]
+      Executed DbCommand (1ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+      SELECT [c].[Id], [c].[CreatedDateTime], [c].[DisplayOrder], [c].[Name]
+      FROM [Categories] AS [c]
+info: Microsoft.EntityFrameworkCore.Database.Command[20101]
+      Executed DbCommand (1ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+      SELECT [c].[Id], [c].[CreatedDateTime], [c].[DisplayOrder], [c].[Name]
+      FROM [Categories] AS [c]
