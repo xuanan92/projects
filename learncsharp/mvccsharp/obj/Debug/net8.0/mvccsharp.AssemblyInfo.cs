@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("mvccsharp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c708bfa0488459c43f5dbc9a50814daa0ba4b660")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+910f4d732d9b082b07c4137a1c73dc9ad3871317")]
 [assembly: System.Reflection.AssemblyProductAttribute("mvccsharp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("mvccsharp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
