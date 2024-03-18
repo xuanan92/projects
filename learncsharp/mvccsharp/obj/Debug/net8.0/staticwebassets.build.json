@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "4qqZ6tMYQksSumFCnJix7If9Q0Yhkax7MqsdvGIeNUM=",
+  "Hash": "9VD5rO6ICbYpQ4hPq5GadfY+Jej0blWJ59AQwnf3FLw=",
   "Source": "mvccsharp",
   "BasePath": "_content/mvccsharp",
   "Mode": "Default",
@@ -53,6 +53,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/home/xuanan92/projects/learncsharp/mvccsharp/obj/Debug/net8.0/scopedcss/projectbundle/mvccsharp.bundle.scp.css"
+    },
+    {
+      "Identity": "/home/xuanan92/projects/learncsharp/mvccsharp/wwwroot/css/bootswatchTheme.css",
+      "SourceId": "mvccsharp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/xuanan92/projects/learncsharp/mvccsharp/wwwroot/",
+      "BasePath": "_content/mvccsharp",
+      "RelativePath": "css/bootswatchTheme.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/css/bootswatchTheme.css"
     },
     {
       "Identity": "/home/xuanan92/projects/learncsharp/mvccsharp/wwwroot/css/site.css",

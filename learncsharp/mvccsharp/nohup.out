@@ -52,3 +52,49 @@ info: Microsoft.EntityFrameworkCore.Database.Command[20101]
       Executed DbCommand (1ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
       SELECT [c].[Id], [c].[CreatedDateTime], [c].[DisplayOrder], [c].[Name]
       FROM [Categories] AS [c]
+dotnet watch ⌚ File changed: ./wwwroot/css/site.css.
+dotnet watch 🔥 Hot reload of static file succeeded.
+dotnet watch ⌚ File changed: ./Views/Shared/_Layout.cshtml.css.
+dotnet watch 🔥 Hot reload of scoped css succeeded.
+dotnet watch ⌚ File changed: ./Views/Shared/_Layout.cshtml.
+dotnet watch 🔥 Hot reload of changes succeeded.
+info: Microsoft.EntityFrameworkCore.Database.Command[20101]
+      Executed DbCommand (41ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+      SELECT [c].[Id], [c].[CreatedDateTime], [c].[DisplayOrder], [c].[Name]
+      FROM [Categories] AS [c]
+dotnet watch ⌚ File changed: ./Views/Shared/_Layout.cshtml.
+dotnet watch 🔥 Hot reload of changes succeeded.
+info: Microsoft.EntityFrameworkCore.Database.Command[20101]
+      Executed DbCommand (11ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+      SELECT [c].[Id], [c].[CreatedDateTime], [c].[DisplayOrder], [c].[Name]
+      FROM [Categories] AS [c]
+dotnet watch ⌚ File changed: ./Views/Shared/_Layout.cshtml.
+dotnet watch ⌚ No hot reload changes to apply.
+info: Microsoft.EntityFrameworkCore.Database.Command[20101]
+      Executed DbCommand (62ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+      SELECT [c].[Id], [c].[CreatedDateTime], [c].[DisplayOrder], [c].[Name]
+      FROM [Categories] AS [c]
+dotnet watch ⌚ File changed: ./Views/Shared/_Layout.cshtml.
+dotnet watch ⌚ No hot reload changes to apply.
+info: Microsoft.EntityFrameworkCore.Database.Command[20101]
+      Executed DbCommand (64ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+      SELECT [c].[Id], [c].[CreatedDateTime], [c].[DisplayOrder], [c].[Name]
+      FROM [Categories] AS [c]
+info: Microsoft.EntityFrameworkCore.Database.Command[20101]
+      Executed DbCommand (47ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+      SELECT [c].[Id], [c].[CreatedDateTime], [c].[DisplayOrder], [c].[Name]
+      FROM [Categories] AS [c]
+info: Microsoft.EntityFrameworkCore.Database.Command[20101]
+      Executed DbCommand (82ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+      SELECT [c].[Id], [c].[CreatedDateTime], [c].[DisplayOrder], [c].[Name]
+      FROM [Categories] AS [c]
+dotnet watch ⌚ File changed: ./Views/Shared/_Layout.cshtml.
+dotnet watch 🔥 Hot reload of changes succeeded.
+info: Microsoft.EntityFrameworkCore.Database.Command[20101]
+      Executed DbCommand (78ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+      SELECT [c].[Id], [c].[CreatedDateTime], [c].[DisplayOrder], [c].[Name]
+      FROM [Categories] AS [c]
+info: Microsoft.EntityFrameworkCore.Database.Command[20101]
+      Executed DbCommand (1ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+      SELECT [c].[Id], [c].[CreatedDateTime], [c].[DisplayOrder], [c].[Name]
+      FROM [Categories] AS [c]

@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets/mvccsharp.bundle.scp.css"
     },
     {
+      "Id": "/home/xuanan92/projects/learncsharp/mvccsharp/wwwroot/css/bootswatchTheme.css",
+      "PackagePath": "staticwebassets/css/bootswatchTheme.css"
+    },
+    {
       "Id": "/home/xuanan92/projects/learncsharp/mvccsharp/wwwroot/css/site.css",
       "PackagePath": "staticwebassets/css/site.css"
     },
