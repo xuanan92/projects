@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/mvcmyself.props" />
+</Project>

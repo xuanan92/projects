@@ -1,0 +1,34 @@
+@model IEnumerable<CategoryModel>;
+@{
+  ViewData["Title"] = "Categories";
+}
+
+<h1>This is the first page of my own design</h1>
+<p>You will find that it is interesting</p>
+<table>
+  <thead>
+      <tr>
+        <th>Name</th>
+        <th>Display Order</th>
+        <th>Links</th>
+      </tr>
+  </thead>
+  <tbody>
+    @foreach(var obj in Model)
+    {
+      <tr>
+        <td>
+          @obj.Name
+        </td>
+        <td>
+          @obj.DisplayOrder
+        </td>
+        <td>
+          <a href="">Edit</a>
+          <a href="">Delete</a>
+        </td>
+      </tr>
+    }
+  </tbody>
+</table>
+
