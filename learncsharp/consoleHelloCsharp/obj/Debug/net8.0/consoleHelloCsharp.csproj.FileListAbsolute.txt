@@ -1,0 +1,15 @@
+/home/xuanan92/projects/learncsharp/consoleHelloCsharp/obj/Debug/net8.0/consoleHelloCsharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/xuanan92/projects/learncsharp/consoleHelloCsharp/obj/Debug/net8.0/consoleHelloCsharp.AssemblyInfoInputs.cache
+/home/xuanan92/projects/learncsharp/consoleHelloCsharp/obj/Debug/net8.0/consoleHelloCsharp.AssemblyInfo.cs
+/home/xuanan92/projects/learncsharp/consoleHelloCsharp/obj/Debug/net8.0/consoleHelloCsharp.csproj.CoreCompileInputs.cache
+/home/xuanan92/projects/learncsharp/consoleHelloCsharp/obj/Debug/net8.0/consoleHelloCsharp.sourcelink.json
+/home/xuanan92/projects/learncsharp/consoleHelloCsharp/bin/Debug/net8.0/consoleHelloCsharp
+/home/xuanan92/projects/learncsharp/consoleHelloCsharp/bin/Debug/net8.0/consoleHelloCsharp.deps.json
+/home/xuanan92/projects/learncsharp/consoleHelloCsharp/bin/Debug/net8.0/consoleHelloCsharp.runtimeconfig.json
+/home/xuanan92/projects/learncsharp/consoleHelloCsharp/bin/Debug/net8.0/consoleHelloCsharp.dll
+/home/xuanan92/projects/learncsharp/consoleHelloCsharp/bin/Debug/net8.0/consoleHelloCsharp.pdb
+/home/xuanan92/projects/learncsharp/consoleHelloCsharp/obj/Debug/net8.0/consoleHelloCsharp.dll
+/home/xuanan92/projects/learncsharp/consoleHelloCsharp/obj/Debug/net8.0/refint/consoleHelloCsharp.dll
+/home/xuanan92/projects/learncsharp/consoleHelloCsharp/obj/Debug/net8.0/consoleHelloCsharp.pdb
+/home/xuanan92/projects/learncsharp/consoleHelloCsharp/obj/Debug/net8.0/consoleHelloCsharp.genruntimeconfig.cache
+/home/xuanan92/projects/learncsharp/consoleHelloCsharp/obj/Debug/net8.0/ref/consoleHelloCsharp.dll

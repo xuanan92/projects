@@ -1,0 +1,15 @@
+/home/xuanan92/projects/learncsharp/countdivisible/bin/Debug/net8.0/countdivisible
+/home/xuanan92/projects/learncsharp/countdivisible/bin/Debug/net8.0/countdivisible.deps.json
+/home/xuanan92/projects/learncsharp/countdivisible/bin/Debug/net8.0/countdivisible.runtimeconfig.json
+/home/xuanan92/projects/learncsharp/countdivisible/bin/Debug/net8.0/countdivisible.dll
+/home/xuanan92/projects/learncsharp/countdivisible/bin/Debug/net8.0/countdivisible.pdb
+/home/xuanan92/projects/learncsharp/countdivisible/obj/Debug/net8.0/countdivisible.GeneratedMSBuildEditorConfig.editorconfig
+/home/xuanan92/projects/learncsharp/countdivisible/obj/Debug/net8.0/countdivisible.AssemblyInfoInputs.cache
+/home/xuanan92/projects/learncsharp/countdivisible/obj/Debug/net8.0/countdivisible.AssemblyInfo.cs
+/home/xuanan92/projects/learncsharp/countdivisible/obj/Debug/net8.0/countdivisible.csproj.CoreCompileInputs.cache
+/home/xuanan92/projects/learncsharp/countdivisible/obj/Debug/net8.0/countdivisible.sourcelink.json
+/home/xuanan92/projects/learncsharp/countdivisible/obj/Debug/net8.0/countdivisible.dll
+/home/xuanan92/projects/learncsharp/countdivisible/obj/Debug/net8.0/refint/countdivisible.dll
+/home/xuanan92/projects/learncsharp/countdivisible/obj/Debug/net8.0/countdivisible.pdb
+/home/xuanan92/projects/learncsharp/countdivisible/obj/Debug/net8.0/countdivisible.genruntimeconfig.cache
+/home/xuanan92/projects/learncsharp/countdivisible/obj/Debug/net8.0/ref/countdivisible.dll
