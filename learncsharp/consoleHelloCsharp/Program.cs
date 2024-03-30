@@ -6,15 +6,19 @@ namespace consoleHelloCsharp
 {
     public class Program
     {
-        public static void Main()
+        public static void Main(string[] args)
         {
-            var imageWidth = "300";
-            var imageWi = 300;
+            Console.WriteLine("Enter image width:");
+            string imageWidth = Console.ReadLine();
+            while (string.IsNullOrEmpty(imageWidth))
+            {
+                Console.WriteLine("Image width cannot be null. Please enter a value:");
+                imageWidth = Console.ReadLine();
+            }
             Console.WriteLine("Enter image height:");
-            var imageHeight = "400";
+            string imageHeight = Console.ReadLine();
             int width = Convert.ToInt32(imageWidth, CultureInfo.InvariantCulture);
             int height = Convert.ToInt32(imageHeight, CultureInfo.InvariantCulture);
-            int hel = imageWi;
             if (width > height)
             {
                 Console.WriteLine("landscape");
