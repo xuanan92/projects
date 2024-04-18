@@ -1,0 +1,15 @@
+/home/xuanan92/projects/learncsharp/constructor/bin/Debug/net8.0/constructor
+/home/xuanan92/projects/learncsharp/constructor/bin/Debug/net8.0/constructor.deps.json
+/home/xuanan92/projects/learncsharp/constructor/bin/Debug/net8.0/constructor.runtimeconfig.json
+/home/xuanan92/projects/learncsharp/constructor/bin/Debug/net8.0/constructor.dll
+/home/xuanan92/projects/learncsharp/constructor/bin/Debug/net8.0/constructor.pdb
+/home/xuanan92/projects/learncsharp/constructor/obj/Debug/net8.0/constructor.GeneratedMSBuildEditorConfig.editorconfig
+/home/xuanan92/projects/learncsharp/constructor/obj/Debug/net8.0/constructor.AssemblyInfoInputs.cache
+/home/xuanan92/projects/learncsharp/constructor/obj/Debug/net8.0/constructor.AssemblyInfo.cs
+/home/xuanan92/projects/learncsharp/constructor/obj/Debug/net8.0/constructor.csproj.CoreCompileInputs.cache
+/home/xuanan92/projects/learncsharp/constructor/obj/Debug/net8.0/constructor.sourcelink.json
+/home/xuanan92/projects/learncsharp/constructor/obj/Debug/net8.0/constructor.dll
+/home/xuanan92/projects/learncsharp/constructor/obj/Debug/net8.0/refint/constructor.dll
+/home/xuanan92/projects/learncsharp/constructor/obj/Debug/net8.0/constructor.pdb
+/home/xuanan92/projects/learncsharp/constructor/obj/Debug/net8.0/constructor.genruntimeconfig.cache
+/home/xuanan92/projects/learncsharp/constructor/obj/Debug/net8.0/ref/constructor.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "StackOverFlow-csharp/1.0.0": {
+        "runtime": {
+          "StackOverFlow-csharp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StackOverFlow-csharp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

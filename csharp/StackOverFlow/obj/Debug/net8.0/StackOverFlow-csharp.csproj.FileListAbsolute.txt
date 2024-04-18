@@ -1,0 +1,15 @@
+/home/xuanan92/projects/StackOverFlow-csharp/bin/Debug/net8.0/StackOverFlow-csharp
+/home/xuanan92/projects/StackOverFlow-csharp/bin/Debug/net8.0/StackOverFlow-csharp.deps.json
+/home/xuanan92/projects/StackOverFlow-csharp/bin/Debug/net8.0/StackOverFlow-csharp.runtimeconfig.json
+/home/xuanan92/projects/StackOverFlow-csharp/bin/Debug/net8.0/StackOverFlow-csharp.dll
+/home/xuanan92/projects/StackOverFlow-csharp/bin/Debug/net8.0/StackOverFlow-csharp.pdb
+/home/xuanan92/projects/StackOverFlow-csharp/obj/Debug/net8.0/StackOverFlow-csharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/xuanan92/projects/StackOverFlow-csharp/obj/Debug/net8.0/StackOverFlow-csharp.AssemblyInfoInputs.cache
+/home/xuanan92/projects/StackOverFlow-csharp/obj/Debug/net8.0/StackOverFlow-csharp.AssemblyInfo.cs
+/home/xuanan92/projects/StackOverFlow-csharp/obj/Debug/net8.0/StackOverFlow-csharp.csproj.CoreCompileInputs.cache
+/home/xuanan92/projects/StackOverFlow-csharp/obj/Debug/net8.0/StackOverFlow-csharp.sourcelink.json
+/home/xuanan92/projects/StackOverFlow-csharp/obj/Debug/net8.0/StackOverFlow-csharp.dll
+/home/xuanan92/projects/StackOverFlow-csharp/obj/Debug/net8.0/refint/StackOverFlow-csharp.dll
+/home/xuanan92/projects/StackOverFlow-csharp/obj/Debug/net8.0/StackOverFlow-csharp.pdb
+/home/xuanan92/projects/StackOverFlow-csharp/obj/Debug/net8.0/StackOverFlow-csharp.genruntimeconfig.cache
+/home/xuanan92/projects/StackOverFlow-csharp/obj/Debug/net8.0/ref/StackOverFlow-csharp.dll

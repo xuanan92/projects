@@ -1,0 +1,15 @@
+/home/xuanan92/projects/csharp/designastack/bin/Debug/net8.0/designastack
+/home/xuanan92/projects/csharp/designastack/bin/Debug/net8.0/designastack.deps.json
+/home/xuanan92/projects/csharp/designastack/bin/Debug/net8.0/designastack.runtimeconfig.json
+/home/xuanan92/projects/csharp/designastack/bin/Debug/net8.0/designastack.dll
+/home/xuanan92/projects/csharp/designastack/bin/Debug/net8.0/designastack.pdb
+/home/xuanan92/projects/csharp/designastack/obj/Debug/net8.0/designastack.GeneratedMSBuildEditorConfig.editorconfig
+/home/xuanan92/projects/csharp/designastack/obj/Debug/net8.0/designastack.AssemblyInfoInputs.cache
+/home/xuanan92/projects/csharp/designastack/obj/Debug/net8.0/designastack.AssemblyInfo.cs
+/home/xuanan92/projects/csharp/designastack/obj/Debug/net8.0/designastack.csproj.CoreCompileInputs.cache
+/home/xuanan92/projects/csharp/designastack/obj/Debug/net8.0/designastack.sourcelink.json
+/home/xuanan92/projects/csharp/designastack/obj/Debug/net8.0/designastack.dll
+/home/xuanan92/projects/csharp/designastack/obj/Debug/net8.0/refint/designastack.dll
+/home/xuanan92/projects/csharp/designastack/obj/Debug/net8.0/designastack.pdb
+/home/xuanan92/projects/csharp/designastack/obj/Debug/net8.0/designastack.genruntimeconfig.cache
+/home/xuanan92/projects/csharp/designastack/obj/Debug/net8.0/ref/designastack.dll
